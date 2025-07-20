@@ -66,6 +66,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg" alt="pytorch" width="50" height="50"/> </a>
 <a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="altium" width="50" height="50"/> </a>
-<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/solidworks-1.svg" alt="solidworks" width="50" height="50"/> </a>
 <a href="https://www.microchip.com/en-us/tools-resources/develop/microchip-studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="microchip-studio" width="50" height="50"/> </a>
 </p>
