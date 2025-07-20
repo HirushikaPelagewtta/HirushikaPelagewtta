@@ -1,21 +1,21 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Hirushika Pelagewatta</h1>
 <h3 align="center">Enthusiastic Engineering Student | Interested in ML and it's Real-World Implementation</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NaveenSanjaya&label=Profile%20views&color=0e75b6&style=flat" alt="NaveenSanjaya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HirushikaPelagewtta&label=Profile%20views&color=0e75b6&style=flat" alt="HirushikaPelagewtta" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Machine Learning and Computer Vision**
+- 🌱 I'm currently learning **Machine Learning and Computer Vision**
 
-- 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
+- 🧑‍🎓 I'm an Undergraduate at **University of Moratuwa**
 
-- 💬 Ask me about
+- 💬 Ask me about **Network Monitoring, Audio Processing, Machine Learning**
 
 - 📫 How to reach me **hpelagewatta@gmail.com**
   
-- ⚡ Fun fact
+- ⚡ Fun fact **I love building production-ready ML systems!**
 
 </td>
 <td width="50%" align="center">
@@ -35,13 +35,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NaveenSanjaya&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HirushikaPelagewtta&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenSanjaya&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HirushikaPelagewtta&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NaveenSanjaya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HirushikaPelagewtta&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -51,10 +51,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/naveensanjaya" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="naveensanjaya" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
-<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Naveen Sanjaya" height="50" width="50" /></a>
-<a href="https://www.instagram.com/naveensanjaya_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/hirushika-pelagewatta-2905112a8" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="hirushika-pelagewatta" height="50" width="50" /></a>
 </p>
 
 ---
