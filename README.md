@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Network Monitoring, Audio Processing, Machine Learning**
 
-- 📫 How to reach me **hpelagewatta@gmail.com**
+- 📫 How to reach me **hirushikapelagewattaofficial@gmail.com**
   
 - ⚡ Fun fact **I love building production-ready ML systems!**
 
