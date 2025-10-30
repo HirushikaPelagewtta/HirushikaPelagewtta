@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I'm an Undergraduate at **University of Moratuwa**
 
-- 💬 Ask me about **Network Monitoring, Audio Processing, Machine Learning**
+- 💬 Ask me about **Computer Vision, Machine Learning**
 
 - 📫 How to reach me **hirushikapelagewattaofficial@gmail.com**
   
